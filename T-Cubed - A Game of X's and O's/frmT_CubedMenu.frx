@@ -1,0 +1,19 @@
+ÿWelcome to T-Cubed: A Game about X's and O's
+
+This is a variant of Tic Tac Toe called "ULTIMATE Tic Tac Toe".
+In this version, you have 9 boards on which you play simultaneously.
+The 9 Boards represent 1 big Tic Tac Toe grid, which is what you need to win.
+
+To win, you need strategically win the mini-boards so that you make the winning pattern in the grand scheme of things.
+However, you can't put your X's and O's anywhere on any board. That is determined by where the last player played.
+The next board you play on is determined by which cell your opponent played on before, and thus you can make your opponent play on your choice of the next board.
+
+Draws in boards are shared by both players. So you can win the game if you have 2 of your win boards plus a draw board.
+If an opponent wins a mini-board, it becomes their board. However, you can still redirect people to the won board to play in empty squares.
+This is a tactic to stop your opponent from playing in other boards. However if you direct your opponent to a board with each cell already played on, they get to play on any board they want in the game.
+
+Sounds Complicated? You'll get it eventually...
+
+Choose your player colours below and then start! (Having 2 separate colours is recommended)
+
+Good luck and have fun!
